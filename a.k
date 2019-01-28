@@ -5,3 +5,6 @@ bjmjn]bn
 bnb
 gvgb
  n
+ nn
+  n
+  b b
