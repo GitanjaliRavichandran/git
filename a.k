@@ -4,6 +4,8 @@ hvhvhvhb
 bjmjn]bn
 bnb
 gvgb
+,m.
+ m
  n
  n n
  nb n 
