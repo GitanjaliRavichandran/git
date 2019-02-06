@@ -23,7 +23,9 @@ by specifying the Operating System and the Software
 * Copy and paste the certificate files in the following path
 > ```/etc/letsencrypt/live/your_domain_name/certificate.pem```
 * certificate.pem file should contain both private key and certificate.
-*Restart the apache and test the with the following url 
+* Restart the apache server
+```service apache2 restart```
+* Test with the url such as
 > ```https://your_domain_name```
 
 
