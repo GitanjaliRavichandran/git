@@ -1,4 +1,4 @@
-# CLOUD DNS
+# CLOUD DNS & SSL
 # Domain name mapping to IP Address
 * Register a new domain for your ip address using any domain name services like [freenom](https://www.freenom.com/en/index.html?lang=en),[godaddy](https://www.google.com/search?ei=jMlaXM21DI78rQH4lKrgCA&q=godaddy+free+trial&oq=godaddy+&gs_l=psy-ab.1.0.35i39l2j0i131i20i263j0i131i67j0i131i20i263j0j0i131j0i67l2j0.6725.6725..8342...0.0..0.69.69.1......0....1..gws-wiz.......0i71.jpM_Z_xCJu8),etc
 ![image for dns](https://github.com/GitanjaliRavichandran/git/blob/master/Selection_018.png)
