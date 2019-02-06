@@ -6,10 +6,11 @@
 ![cloud dns](https://github.com/GitanjaliRavichandran/git/blob/master/Selection_019.png)
 * Specify the DNS name that you have owned from the site(freenom) so that it provides the Nameservers that can be added in the *Use the own DNS* tab -All these should be done in the **CREATE ZONE**
 * After creating a zone , add the record set by specifing the domain name,Record type(A/AAAA/CNAME),corresponding ipv4 address and then click on SAVE button 
+* For creating a domain name select the A record type
 * Test the domain name in the browser(say demo.ml,apache.tk) 
 # SUBDOMAIN
 * Specify the domain name for your ip(say *apache*.demo.ml)
-* Select the CNAME record for creating a subdomain 
+* Select the **CNAME** record for creating a subdomain 
 * In the Canonical name,mention the domain name(**demo.ml** )
 * Finally click on SAVE button
 * Test the subdomain name in the browser(say apache.demo.ml)
