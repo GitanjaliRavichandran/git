@@ -24,6 +24,15 @@ by specifying the Operating System and the Software
 * Copy and paste the certificate files in the following path
 > ```/etc/letsencrypt/live/your_domain_name/certificate.pem```
 * certificate.pem file should contain both private key and certificate.
+* Open the configuration file under ```/etc/apache2/sites-enabled/your_configuration_file``` and add the following snippet of code.
+```
+<VirtualHost *:443>
+ ServerName www.yoursite.com
+ DocumentRoot /var/www/HTML
+ SSLEngine on
+ SSLCertificateFile /path/to/www_yoursite2_com/certificate.pem
+</VirtualHost>
+```
 * Restart the apache server
 ```service apache2 restart```
 * Test with the url such as
