@@ -23,7 +23,7 @@
 # Shell script
 ```
 #!/bin/sh
-ssh gitanjali@192.168.1.127
+ssh gitanjali@ipaddress
 echo "Script executed from: ${PWD}"
 p="/var/www/html/" 
 cd "$p" 
